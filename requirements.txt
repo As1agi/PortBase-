@@ -1,0 +1,7 @@
+python-dotenv
+fastapi
+protobuf
+google-genai
+google
+flask
+uvicorn
